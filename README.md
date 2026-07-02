@@ -84,3 +84,4 @@ Projeye ait test senaryoları ve test sonuçları aşağıdaki dosyalarda yer al
 •	proje_raporu.docx
 
 
+test
